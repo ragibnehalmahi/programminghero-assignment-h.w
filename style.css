@@ -1,0 +1,127 @@
+body{
+ margin: 0;
+ font-family: 'Roboto', sans-serif;
+}
+  
+ }
+h1{
+font-size: 50px;
+}
+p{
+ color: dimgray;
+}
+.highlight{
+ color: orange;
+}
+.half-width{
+ width: 40%;
+ margin-left: 5%;
+ float: left;
+ padding-left: 2%;
+}
+.half-width img{
+ width: 100%;
+}
+.top{
+banner background-image: url("C:\web-development\programming-hero-assignment\top-.png");
+}
+.link-button{
+ text-decoration: none;
+ background-image: linear-gradient(45deg, lightSalmon, tomato);
+ color: white;
+ font-weight: 700;
+ padding: 3px;
+ margin: 4px;
+ border-radius: 3px;
+}
+#download-button{
+ font-size: 46px;
+ border-radius: 4px;
+ padding: 3px;
+ margin: 4px;
+
+}
+.card{
+ width: 20%;
+ display: inline-block;
+ box-shadow: 2px 2px 20px black;
+ border-radius: 5px; 
+ margin: 2%;
+}
+.image img{
+ width: 100%;
+ border-top-right-radius: 5px;
+ border-top-left-radius: 5px;
+ 
+
+
+}
+
+ .projects{
+    display: block;
+ }
+.h2{
+  text-align: center;
+}
+.new-project{
+  height: 500px;
+  padding-top: 200px;
+  text-align: center;
+}
+.top{
+  height: 500px;
+}.about-me{
+  height: 500px;
+}
+.footer{
+  height: 500px;
+  width: 200px;
+}
+
+.footer{
+  background-image: url(C:\web-development\programming-hero-assignment\Group_33094_1.png) no-repeat center;
+  width: 619px;
+  background-image: url('w3css.gif');
+  background-repeat: no-repeat;
+   
+  background-position: center;
+}
+}
+.blue-img img{
+  background-position-x: center;
+margin:25px 217px;
+}
+.half-foot img{
+  float: left;
+  clear: both;
+  position: 200px;
+
+
+
+}
+.half-foot h3{
+  width: 320px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: -208px 265px;
+  font-size: 40px;
+}
+.half-foot h6{
+  width: 163px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 246px 989px;
+    font-size: 28px;
+}
+.foot-highlight1{
+  color: white;
+
+}
+.foot-highlight2{
+   border: 1px solid orange;
+   border-radius: 1px;
+   background-color: orange;
+   text-decoration: none;
+  
+  
+}
